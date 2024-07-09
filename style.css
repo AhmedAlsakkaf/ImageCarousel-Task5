@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 100vh; /* Full viewport height */
+  margin: 0;
+}
+
+#myCarousel {
+  max-width: 1170px; /* Adjust max-width as needed */
+  width: 100%;
+}
